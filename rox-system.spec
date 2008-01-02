@@ -14,6 +14,7 @@ URL:		http://rox.sourceforge.net/system.html
 Source:		http://prdownloads.sourceforge.net/%{name}/%{oname}-%version.tar.bz2
 Requires:	rox-lib >= 1.9.9
 Requires:	python-ctypes
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildArch:	noarch
 
 %description
