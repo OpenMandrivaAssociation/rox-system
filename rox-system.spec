@@ -6,7 +6,7 @@
 
 Name:		%name
 Version:	%version
-Release:	%mkrel 2
+Release:	%mkrel 4
 Summary:	System monitor for the ROX graphical desktop
 Group:		Graphical desktop/Other
 License:	GPL
