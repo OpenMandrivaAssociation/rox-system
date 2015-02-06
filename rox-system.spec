@@ -4,7 +4,7 @@
 
 Name:		rox-system
 Version:	1.9.1
-Release:	7
+Release:	8
 Summary:	System monitor for the ROX graphical desktop
 Group:		Graphical desktop/Other
 License:	GPL
