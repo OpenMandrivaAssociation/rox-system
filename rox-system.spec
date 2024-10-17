@@ -8,7 +8,7 @@ Release:	8
 Summary:	System monitor for the ROX graphical desktop
 Group:		Graphical desktop/Other
 License:	GPL
-URL:		http://rox.sourceforge.net/system.html
+URL:		https://rox.sourceforge.net/system.html
 Source:		http://prdownloads.sourceforge.net/%{name}/%{oname}-%{version}.tar.bz2
 Requires:	rox-lib >= 1.9.9
 Requires:	python-ctypes
